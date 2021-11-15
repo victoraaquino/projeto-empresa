@@ -24,6 +24,7 @@
     margin-right: auto;
     text-decoration: none;
     list-style-type: none;
+    margin-bottom: 20px;
 }
 
 .menu > ul :hover {
